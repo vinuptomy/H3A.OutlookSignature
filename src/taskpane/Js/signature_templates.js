@@ -34,7 +34,7 @@ function get_template_Standard_str(user_info)
   str +=   "</tr>";
   str +=     "<td style='padding-left: 5px;'>"
   str +=     "<br/>";  
-  str +=	"<img src='https://localhost:3000/assets/DreiLogo-64.png' alt='Logo' />";  
+  str +=	"<img src='https://h3aoutlooksignature-test.azurewebsites.net/assets/DreiLogo-64.png' alt='Logo' />";  
   str +=     "<br/>";
   str +=     "<br/>";
   str +=	"</td>";

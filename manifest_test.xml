@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xsi:type="MailApp">
-  <Id>0a9e0f68-13be-4030-8ac4-e8c6f64de2e2</Id>
+  <Id>0a9e0f68-13be-4050-8ac4-e8c6f64de2e2</Id>
   <Version>1.0.0.1</Version>
   <ProviderName>Drei AUstriaGmbH</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="OutlookSignature"/>
+  <DisplayName DefaultValue="OutlookSignature - Test"/>
   <Description DefaultValue="Outlook Addin to help Drei Employee to create and save Outlook Signature"/>
   <IconUrl DefaultValue="https://h3aoutlooksignature-test.azurewebsites.net/assets/DreiLogo-64.png"/>
   <HighResolutionIconUrl DefaultValue="https://h3aoutlooksignature-test.azurewebsites.net/assets/DreiLogo_small.png"/>
