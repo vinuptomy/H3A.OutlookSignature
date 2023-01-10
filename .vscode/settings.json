@@ -7,6 +7,8 @@
   "search.exclude": {
     "**/node_modules": false
   },
-  "task.allowAutomaticTasks": "on"
+  "task.allowAutomaticTasks": "on",
+  "appService.defaultWebAppToDeploy": "/subscriptions/d0afae71-d2b8-48dd-90ce-743446fc6058/AppServices/subscriptions/d0afae71-d2b8-48dd-90ce-743446fc6058/resourceGroups/rg_SAAS_outlook_addin/providers/Microsoft.Web/sites/H3AOutlookSignature-Test",
+  "appService.deploySubpath": "dist"
 }
   
