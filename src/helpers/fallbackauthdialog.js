@@ -33,9 +33,9 @@ Office.onReady(() => {
 
 const msalConfig = {
   auth: {
-    clientId: "4e4435e2-9985-419c-891a-e45ba1869d26", //This is your client ID
+    clientId: "1830653c-a494-408b-b492-d73c64c7402a", //This is your client ID
     authority: "https://login.microsoftonline.com/common",
-    redirectUri: "https://localhost:3000/fallbackauthdialog.html",
+    redirectUri: "https://h3aoutlooksignature-test.azurewebsites.net/fallbackauthdialog.html",
     navigateToLoginRequestUrl: false,
   },
   cache: {

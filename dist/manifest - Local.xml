@@ -6,8 +6,8 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="OutlookSignature"/>
   <Description DefaultValue="Outlook Addin to help Drei Employee to create and save Outlook Signature"/>
-  <IconUrl DefaultValue="https://localhost:3000/assets/DreiLogo-64.png"/>
-  <HighResolutionIconUrl DefaultValue="https://localhost:3000/assets/DreiLogo_small.png"/>
+  <IconUrl DefaultValue="https://h3aoutlooksignature-test.azurewebsites.net/assets/DreiLogo-64.png"/>
+  <HighResolutionIconUrl DefaultValue="https://h3aoutlooksignature-test.azurewebsites.net/assets/DreiLogo_small.png"/>
   <SupportUrl DefaultValue="https://localhost.office.com/mail/"/>
   <AppDomains>
     <AppDomain>https://localhost</AppDomain>
@@ -23,7 +23,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://localhost:3000/index.html"/>
+        <SourceLocation DefaultValue="https://h3aoutlooksignature-test.azurewebsites.net/index.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -79,16 +79,16 @@
       </Hosts>
       <Resources>
         <bt:Images>
-          <bt:Image id="Icon.16x16" DefaultValue="https://localhost:3000/assets/DreiLogo-16.png"/>
-          <bt:Image id="Icon.32x32" DefaultValue="https://localhost:3000/assets/DreiLogo-32.png"/>
-          <bt:Image id="Icon.80x80" DefaultValue="https://localhost:3000/assets/DreiLogo-80.png"/>
+          <bt:Image id="Icon.16x16" DefaultValue="https://h3aoutlooksignature-test.azurewebsites.net/assets/DreiLogo-16.png"/>
+          <bt:Image id="Icon.32x32" DefaultValue="https://h3aoutlooksignature-test.azurewebsites.net/assets/DreiLogo-32.png"/>
+          <bt:Image id="Icon.80x80" DefaultValue="https://h3aoutlooksignature-test.azurewebsites.net/assets/DreiLogo-80.png"/>
         </bt:Images>
         <bt:Urls>
-          <bt:Url id="Commands.Url" DefaultValue="https://localhost:3000/commands.html"/>
-          <bt:Url id="Taskpane.Url" DefaultValue="https://localhost:3000/taskpane.html"/>
-          <bt:Url id="residUrl0" DefaultValue="https://localhost:3000/taskpane.html"></bt:Url>
-          <bt:Url id="Autorun" DefaultValue="https://localhost:3000/autorunweb.html"></bt:Url>
-          <bt:Url id="runtimeJs" DefaultValue="https://localhost:3000/autorunshared.js"></bt:Url>
+          <bt:Url id="Commands.Url" DefaultValue="https://h3aoutlooksignature-test.azurewebsites.net/commands.html"/>
+          <bt:Url id="Taskpane.Url" DefaultValue="https://h3aoutlooksignature-test.azurewebsites.net/taskpane.html"/>
+          <bt:Url id="residUrl0" DefaultValue="https://h3aoutlooksignature-test.azurewebsites.net/taskpane.html"></bt:Url>
+          <bt:Url id="Autorun" DefaultValue="https://h3aoutlooksignature-test.azurewebsites.net/autorunweb.html"></bt:Url>
+          <bt:Url id="runtimeJs" DefaultValue="https://h3aoutlooksignature-test.azurewebsites.net/autorunshared.js"></bt:Url>
         
         </bt:Urls>
         <bt:ShortStrings>
